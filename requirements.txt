@@ -5,3 +5,4 @@ ipykernel
 jupyterlab
 soundfile
 pandas
+umap-learn
